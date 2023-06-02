@@ -1,5 +1,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/0000ff?style=plastic&logo=로고&logoColor=appveyor"/></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuunwoo&show_icons=true&theme=radical)
+
 ### Hi there 👋
 
 <!--
